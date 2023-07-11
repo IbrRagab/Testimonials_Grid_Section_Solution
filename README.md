@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [live site]()
+- Solution URL: [Solution](https://github.com/IbrRagab/Testimonials_Grid_Section_Solution)
+- Live Site URL: [live site](https://ibrragab.github.io/Testimonials_Grid_Section_Solution)
 
 ### Built with
 
